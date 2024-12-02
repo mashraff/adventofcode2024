@@ -16,7 +16,6 @@ namespace Advent2024.Days
         public void SolvePart1()
         {
             var rawLines = Input.Split('\n');
-            var safetyCount = 0;
             foreach (var line in rawLines)
             {
                 //var list = line.Split(" ").Select(int.Parse).ToList();
