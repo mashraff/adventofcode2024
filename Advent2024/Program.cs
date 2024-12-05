@@ -3,7 +3,7 @@
 Console.WriteLine("Hello, World!");
 
 //params
-var dayNumber = 4;
+var dayNumber = 5;
 var isTest = false;
 var basePath = "C:\\Users\\muneeb2\\Source\\Repos\\adventofcode2024\\Advent2024\\";
 
